@@ -66,6 +66,6 @@ For this assignment, you will analyze the Credit Card Default Dataset to predict
 - Split the data into training (80%) and testing (20%) sets.
 - Build and train three models: Random Forest Classifier, Decision Tree Classifier, and Logistic Regression.
 - Evaluate the models using training accuracy, testing accuracy, and AUROC (Area Under the ROC Curve) scores.
-- Complete the provided starter code to output a performance comparison table and ensure it passes the provided test script (`test.py`).
+- Complete the provided starter code to output a performance comparison table.
 
 The dataset is located in the `data` folder as `credit_card_default.csv`. Use the starter code and submit your completed `starter_code.py` file via GitHub Classroom, ensuring it passes all tests in the test script.
